@@ -1,0 +1,12 @@
+.background {
+    background-color: hsl(35, 87%, 52%);
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.YC button {
+    background-color: hsl(36, 97%, 54%);
+}
+
+
