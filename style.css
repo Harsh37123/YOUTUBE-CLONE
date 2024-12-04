@@ -1,12 +1,29 @@
-.background {
-    background-color: hsl(35, 87%, 52%);
-    color: white;
+body {
+    background-color: hsl(169, 85%, 49%);
+}
+
+h1{
+    color: hsl(23, 92%, 50%);
+
+}
+
+.yc {
+    background-color: hsl(38, 100%, 54%);
     border: none;
+    height: 36px;
+    width: 166px;
+    font-weight: bold;
+    color: white;
+    border-radius: 3px;
+
+}
+
+.thiel{
+    background-color: hsla(0, 1%, 15%, 0.881);
+    width: 200px;
+    border: none;
+    height: 36px;
+    font-weight: bold;
+    color: white;
     border-radius: 3px;
 }
-
-.YC button {
-    background-color: hsl(36, 97%, 54%);
-}
-
-
